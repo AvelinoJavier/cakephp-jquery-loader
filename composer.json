@@ -1,5 +1,5 @@
 {
-    "name": "avelinojavier/jquery-loader",
+    "name": "avelinojavier/cakephp-jquery-loader",
     "description": "Plugin that injects Jquery V3.6.0 via html helper element.",
     "type": "cakephp-plugin",
     "license": "MIT",
