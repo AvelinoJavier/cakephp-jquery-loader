@@ -1,0 +1,1 @@
+<?= $this->Html->script('JqueryLoader.jquery-3.6.0.min') ?>
